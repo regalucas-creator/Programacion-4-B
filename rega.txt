@@ -1,0 +1,9 @@
+1. verdadero
+2. verdadero
+3. falso
+4. for each
+5. ;
+6. str
+7. ucwords
+8. b
+9. a
